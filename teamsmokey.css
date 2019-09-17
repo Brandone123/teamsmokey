@@ -73,7 +73,7 @@ span {
   font-family: monospace;
   font-size: 15px;
 }
-.button {
+.btn {
   display: inline-block;
   position: relative;
   padding:7px;
@@ -84,6 +84,8 @@ span {
   color:white;
   font-size: 20px;
   left:20%;
+  outline: none;
+  cursor: pointer;
 }
 p {
   display:inline-block;
